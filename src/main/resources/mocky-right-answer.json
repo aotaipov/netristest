@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "urlType": "LIVE",
+    "videoUrl": "rtsp://127.0.0.1/1",
+    "value": "fa4b588e-249b-11e9-ab14-d663bd873d93",
+    "ttl": 120
+  }
+]
